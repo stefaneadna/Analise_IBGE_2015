@@ -10,7 +10,7 @@ Alguns dos resultados das análises foram:
 
 - Frequencia da variavel Renda de acordo com a classe
 
-<img src="imagens/1.png"  width="400"/>
+<img src="imagens/1.png" />
 
 - Frequencia da variavel Anos de Estudo
 

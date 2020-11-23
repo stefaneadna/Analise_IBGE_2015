@@ -14,17 +14,17 @@ Alguns dos resultados das análises foram:
 
 - Frequencia da variavel Anos de Estudo
 
-<img src="imagens/2.png"  width="400"/>
+<img src="imagens/2.png"  />
 
 - Box-plot da Renda da População
 
-<img src="imagens/4.png"  width="400"/>
+<img src="imagens/4.png"  />
 
 - Box-plot da RENDA por ESTADOS
 
-<img src="imagens/5.png"  width="400"/>
+<img src="imagens/5.png" />
 
 -Box-plot da RENDA por SEXO e ANOS DE ESTUDO
 
-<img src="imagens/7.png"  width="400"/>
+<img src="imagens/7.png"  />
 
